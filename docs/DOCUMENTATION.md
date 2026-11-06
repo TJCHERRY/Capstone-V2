@@ -8,6 +8,14 @@ This file containes a well documented step by step approach on the Pipeline Auto
 ## Approach
 I adopted an incremental, step-by-step validation approach to isolate failures and verify each component before introducing additional infrastructure complexity.
 
+## Phase 0 : Understanding the application
+- A very simple Todo Application, lets user create a single To-do list.
+- User can perform Basic CRUD operations, like adding tasks, updating them and deleting them from the list.
+- Shipped Application Uses:
+    -  React compiled into static html,css and js.
+    -  backend running on a containerized NodeJS runtime.
+    -  MySQL database
+
 ## Phase 1 : Local Deployment
 - Fork and Clone the Project onto WSL
 - Run it Locally using the instructions given in the source repo's readme to see if basic functionality works
