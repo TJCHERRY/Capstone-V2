@@ -1,4 +1,4 @@
-# Capstone V2
+# Capstone V2[Todo App Deployment]
 This file containes a well documented step by step approach on the Pipeline Automation, Infra Provisioning and Deployment of the sample application in the repo.
 Technologies Used
   - git
